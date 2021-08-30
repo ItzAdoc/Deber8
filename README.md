@@ -56,9 +56,13 @@ __47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un
 __49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.__
 
 __51. Para el circuito de la figura 15-90, e=25 sen wt V y un periodo de T=120 ms.__ 
+
 a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
+
 b. Determine los voltajes pico y mínimo. 
+
 c. Calcule v cuando t= 10, 20, 70 y 100 ms. 
+
 d. Determine Vprom.
 
 
