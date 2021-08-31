@@ -10,13 +10,15 @@
 
 __Objetivos Específicos__
 
-* 
+* Dibujar las formas de onda para voltaje y corriente de ca de manera tradicional y con fasores.
 
-* 
+* Explicar la polaridad del voltaje y las convenciones de dirección de la corriente que se usan para ca.
 
-* 
+* Definir y calcular la frecuencia, periodo, amplitud, valores pico a pico y voltaje sinusoidal instantáneo o corriente en cualquier instante.
 
-* 
+* Definir y calcular la frecuencia, periodo, amplitud, valores pico a pico, voltaje sinusoidal instantáneo o corriente en cualquier instante, valores promedio para formas de onda que varían en el tiempo, valores promedio, valores efectivos (rms) y las diferencias de fase entre formas de onda.
+
+* Definir la relación entre w, T y f para una onda seno, 
 
 * 
 
