@@ -123,6 +123,7 @@ __59. Calcule los valores rms para las formas de onda de la figura 15-92.__
 __61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?__
 
 ![](https://github.com/ItzAdoc/ImaD8/blob/main/15.61.PNG)
+
 __63. Repita el problema 62, use cálculo para manejar la porción triangular.__
 
 __Área de la figura 15.52(c) y Δt=1s__ 
