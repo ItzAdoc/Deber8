@@ -4,9 +4,9 @@
 
  __Objetivos Generales__
 
-*
+* Entender todos los conceptos relacionados con la corriente alterna, sus graficas y como calcular los elementos relacionados con la misma.
 
-*
+* Entender los números complejos y su relación con el cálculo de valores de voltaje, corriente, resistencias, etc. dentro de circuitos eléctricos en corriente alterna.
 
 __Objetivos Específicos__
 
