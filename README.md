@@ -63,7 +63,7 @@ __b. Para la figura 15-74, determine los voltajes instantáneos en t=0, 1, 2, 3,
 __5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t =0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.__
 
 
-__7. Para cada uno de los siguientes, determine la frecuencia:
+__7. Para cada uno de los siguientes, determine la frecuencia:__
 
 __a. T= 0.5 s__
 
@@ -90,6 +90,14 @@ __23.  Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule l
 __25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t= 5 µs. Determine Vm y dibuje la forma de onda.__
 
 __27. Calcule w en radianes por segundo para cada uno de los siguientes casos:__
+
+__29. Determine las ecuaciones para las ondas seno con lo siguiente:__
+
+__31. Una onda seno tiene un voltaje pico a pico de 40 V y T= 50 ms. Determine
+su ecuación__
+
+__33. Dada i= 47 sen 8260t mA, determine la corriente cuando t= 0 s, 80, 410 y
+1200 µs.__
 
 __35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.__
 
