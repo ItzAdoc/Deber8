@@ -51,6 +51,46 @@ __Objetivos Específicos__
 
 __CÁPITULO 15__
 
+__1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?__
+
+__3.__
+
+__a. ¿Qué significa valor instantáneo?__
+
+__b. Para la figura 15-74, determine los voltajes instantáneos en t=0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.__
+
+
+__5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t =0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.__
+
+
+__7. Para cada uno de los siguientes, determine la frecuencia:
+
+__a. T= 0.5 s__
+
+__b. T= 100s__
+
+__c. 5T= 80µs__
+
+__9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77__
+
+__11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?__
+
+__13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?__
+
+__15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si=T1 0.25T2 y f1= 10 kHz, ¿cuáles son los valores de T1, T2 y f2?__
+
+__17. Dado el voltaje v= Vm sen α. Si Vm =240 V, ¿qué valor tiene v cuando α= 37°?__
+
+__19. Un voltaje sinusoidal tiene un valor de 50 V cuando α= 150°. ¿Qué valor tiene Vm?__
+
+__21.  Convierta los siguientes ángulos de grados a radianes:__
+
+__23.  Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t= 30, 75, 140 y 315 ms.__
+
+__25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t= 5 µs. Determine Vm y dibuje la forma de onda.__
+
+__27. Calcule w en radianes por segundo para cada uno de los siguientes casos:__
+
 __35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.__
 
 ![](https://github.com/ItzAdoc/ImaD8/blob/main/15.35.PNG)
