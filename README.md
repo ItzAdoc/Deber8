@@ -22,17 +22,17 @@ __Objetivos Específicos__
 
 * Expresar números complejos en formas rectangular y polar.
 
-• Representar los fasores de voltaje y corriente de ca como números complejos.
+* Representar los fasores de voltaje y corriente de ca como números complejos.
 
-• Sumar y restar corrientes y voltajes mediante fasores.
+* Sumar y restar corrientes y voltajes mediante fasores.
 
-• Calcular las reactancias inductivas y capacitivas.
+* Calcular las reactancias inductivas y capacitivas.
 
-• Determinar los voltajes y corrientes en circuitos simples de ca. 
+* Determinar los voltajes y corrientes en circuitos simples de ca. 
 
-• Explicar el concepto de impedancia y su importancia en circuito R, L, C. 
+* Explicar el concepto de impedancia y su importancia en circuito R, L, C. 
 
-• Determinar los voltajes y corrientes en circuitos simples de ca mediante el concepto de impedancia.
+* Determinar los voltajes y corrientes en circuitos simples de ca mediante el concepto de impedancia.
 
 
 
