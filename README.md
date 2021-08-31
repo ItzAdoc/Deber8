@@ -86,7 +86,7 @@ __64. Determine la lectura de un medidor de ca que responde al promedio para cad
 
 __CÁPITULO 16__
 
-
+__1. Convierta cada uno de los siguientes números a forma polar:__
 4. Video
 
 
