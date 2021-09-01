@@ -46,15 +46,32 @@ __CÁPITULO 15__
 
 __1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?__
 
+El voltaje corresponde al valor de tensión eléctrica, es decir a la "fuerza" con la que la fuente de energía mueve el circuito. Generalmente es un valor de 220V o 110V (de acuerdo al país) cuando conectas a un equipo a un tomacorriente (enchufe) en un domicilio.
+La corriente es la velocidad de los electrones que van a circular por el cable y depende de la resistencia del circuito.
+Tiene que ver con el consumo de energía, ya que a mayor corriente, mayor será el consumo energético (un aire acondicionado consume unos 10A, mientras que una lámpara consume menos de 0,5A).
+
+La sigla CA significa corriente alterna y es la que se utiliza para generar, transportar y distribuir la energía (la CA está en cualquier tomacorriente del mundo); en oposición, la CC es la corriente continua y es aquella que puede almacenarse (la CC está en las pilas y baterías).
+
+
 __3.__
 
 __a. ¿Qué significa valor instantáneo?__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej3.1.jpg)
+
 __b. Para la figura 15-74, determine los voltajes instantáneos en t=0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej3.2.jpg)
 
 __5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t =0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej5.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej5.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej5.3.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej5.4.jpg)
 
 __7. Para cada uno de los siguientes, determine la frecuencia:__
 
@@ -64,17 +81,33 @@ __b. T= 100s__
 
 __c. 5T= 80µs__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej7.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej7.2.jpg)
+
 __9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej9.jpg)
 
 __11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej11.jpg)
+
 __13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej13.jpg)
 
 __15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si=T1 0.25T2 y f1= 10 kHz, ¿cuáles son los valores de T1, T2 y f2?__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej15.jpg)
+
 __17. Dado el voltaje v= Vm sen α. Si Vm =240 V, ¿qué valor tiene v cuando α= 37°?__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej17.jpg)
+
 __19. Un voltaje sinusoidal tiene un valor de 50 V cuando α= 150°. ¿Qué valor tiene Vm?__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej19.jpg)
 
 __21.  Convierta los siguientes ángulos de grados a radianes:__
 
