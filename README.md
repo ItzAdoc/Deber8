@@ -295,6 +295,7 @@ __9. Determine el equivalente sinusoidal para cada una de las fuentes transforma
 
 
 __11. Repita el problema 10 para V=e1-e2__
+
 __Dado e1 = 10 sen (wt + 300) V  y e2= 15 sen (wt — 200) V.__
 
 
