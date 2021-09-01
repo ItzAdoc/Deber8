@@ -32,7 +32,7 @@ __Objetivos Específicos__
 2. Marco Teórico
 
 
-![](https://github.com/ItzAdoc/ImaD8/blob/main/MT15.jpg)
+![](https://github.com/ItzAdoc/ImaD8/blob/main/MT15.jpeg)
 
 
 
