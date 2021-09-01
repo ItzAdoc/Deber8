@@ -307,7 +307,7 @@ __Dado e1 = 10 sen (wt + 300) V  y e2= 15 sen (wt — 200) V.__
 
 
 
-____
+__13.  Para la figura 16-50, i_1=25 sen(wt+〖36〗^o )mA e i_2=40 cos(wt-〖10〗^o )mA__
 
 
 
@@ -316,7 +316,7 @@ ____
 
 
 
-____
+__15. Para la figura 16-18, i_1=7 sen wt mA,i_2=4 sen (wt-〖90〗^o )mA, i_3=6 sen (wt+〖90〗^o )mA__
 
 
 
