@@ -273,46 +273,33 @@ __3. Grafique cada uno de los siguientes valores en el plano complejo:__
 __5. Exprese sus respuestas en forma rectangular.__
 
 
-
-
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/5.1.jpg)
+![](https://github.com/ItzAdoc/ImaD8/blob/main/5.2.jpg)
 
 
 __7. Reduzca cada corriente siguiente a forma polar:__
 
 
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/7.1.jpg)
+![](https://github.com/ItzAdoc/ImaD8/blob/main/7.2.jpg)
+![](https://github.com/ItzAdoc/ImaD8/blob/main/7.3.jpg)
+![](https://github.com/ItzAdoc/ImaD8/blob/main/7.4.jpg)
+![](https://github.com/ItzAdoc/ImaD8/blob/main/7.5.jpg)
 
 
 __9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.__
 
-
-
-
-
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/9.jpg)
 
 __11. Repita el problema 10 para V=e1-e2__
 
 __Dado e1 = 10 sen (wt + 300) V  y e2= 15 sen (wt — 200) V.__
 
-
-
-
-
-
-
-
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/11.jpg)
 
 __13.  Para la figura 16-50, i1=25 sen(wt+36 )mA e i2=40 cos(wt-10 )mA__
 
-
-
-
-
-
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/13.jpg)
 
 __15. Para la figura 16-18, i1=7 sen wt mA,i2=4 sen (wt-90 )mA, i3=6 sen (wt+90 )mA__
 
