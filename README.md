@@ -264,6 +264,86 @@ __1. Convierta cada uno de los siguientes números a forma polar:__
 
 ![](https://github.com/ItzAdoc/ImaD8/blob/main/16.1a.PNG)
 
+__3. Grafique cada uno de los siguientes valores en el plano complejo:__
+
+
+
+
+
+
+
+__5. Exprese sus respuestas en forma rectangular.__
+
+
+
+
+
+
+
+__7. Reduzca cada corriente siguiente a forma polar:__
+
+
+
+
+
+__9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.__
+
+
+
+
+
+
+
+__11. Repita el problema 10 para V=e_1-e_2
+Dado e_1  = 10 sen (wt + 300) V  y e_2= 15 sen (wt — 200) V.__
+
+
+
+
+
+
+
+
+
+
+____
+
+
+
+
+
+
+
+
+____
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____
+
+
+
+
+
+
+
+
+
+
+
 4. Video
 
 * https://youtu.be/mCiwzefrAK8
