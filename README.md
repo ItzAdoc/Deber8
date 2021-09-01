@@ -266,10 +266,8 @@ __1. Convierta cada uno de los siguientes números a forma polar:__
 
 __3. Grafique cada uno de los siguientes valores en el plano complejo:__
 
-
-
-
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/3.1.jpg)
+![](https://github.com/ItzAdoc/ImaD8/blob/main/3.2.jpg)
 
 
 __5. Exprese sus respuestas en forma rectangular.__
@@ -333,15 +331,33 @@ __15. Para la figura 16-18, i1=7 sen wt mA,i2=4 sen (wt-90 )mA, i3=6 sen (wt+90 
 
 
 
-____
+__17. Para la figura 16-52. R=12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje.__
 
 
 
 
 
+__19. Dos resistores R_1=10KΩ y R_2=12,5KΩ están en serie.__
+
+__Si i=14,7 sen(wt+39 )mA__
 
 
+__21. Para la figura 16-53, Vm=10v e Im=5A. Para cada expresión, determine la cantidad solicitada.__
 
+
+__23. Para la figura 16-53, si e=100sen wt y L = 0,5 H. Determine iL__
+
+__25. Para la figura 16-53, si__
+
+__27. ¿Cuál es la resistencia de un capacitor de 5 μ F a. . __
+
+__29. Para la figura 16-54,  C = 50μf__
+
+__31. Determine la impedancia de cada elemento de circuito de la figura 16-55.__
+
+__33. Si la corriente a través de cada elemento del circuito de la figura 16-56 es 0,5∟0º.__
+
+__35. Para el circuito de la figura 16-57 determine la incógnita.__
 
 
 
