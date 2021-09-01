@@ -219,7 +219,14 @@ __1. Convierta cada uno de los siguientes números a forma polar:__
 * La frecuencia es los ciclos que da la onda en un determinado tiempo el cual es 1 segundo, el periodo es el tiempo en que la onda realiza un ciclo, la amplitud o valor pico es el valor máximo que alcanza una onda, el valor pico a pico es el valor pico multiplicado por 2, voltaje o corriente instantáneo  es el valor que toma el voltaje o corriente en un determinado tiempo, valor promedio es la media de todos los voltajes o corrientes, valor efectivo es el valor de la corriente o voltaje cuando es estable es decir cuando se comporta como cd, y las ondas pueden desfasarse, es decir una se adelanta o atrasa respecto a otra, y a ello se lo denomina desfase. Todo esto se calcula mediante formulas dadas por el libro.
 
 * Las 3 magnitudes w, T, f son dependientes entre ellas, es decir, estas tres magnitudes se relacionan como por ejemplo: el periodo depende de la frecuencia y viceversa, y con ambas se puede calcular w. 
-* 
+
+* Los números complejos son los comúnmente usados para circuitos de corriente alterna, los mismos contienen una parte real y una imaginaria, por ello es importante reconocer su estructura y forma de transformar.
+
+* Debido a que los fasores tienen magnitud y ángulo, pueden verse como números complejos. Un fasor equivalente tiene magnitud Em y ángulo v. Por tanto, puede verse como un número complejo.
+
+* Para sumar y restar corrientes y voltajes se utiliza la representación de fasores, los cuales hemos dicho que son como números complejos, por lo que para sumar y restar los mismos se hace como en números complejos, es decir parte real con real e imaginaria con imaginaria.
+
+
 
 
 6. Bibliografía
