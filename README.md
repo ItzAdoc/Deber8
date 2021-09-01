@@ -26,14 +26,7 @@ __Objetivos Específicos__
 
 * Sumar y restar corrientes y voltajes mediante fasores.
 
-* Calcular las reactancias inductivas y capacitivas.
-
-* Determinar los voltajes y corrientes en circuitos simples de ca. 
-
 * Explicar el concepto de impedancia y su importancia en circuito R, L, C. 
-
-* Determinar los voltajes y corrientes en circuitos simples de ca mediante el concepto de impedancia.
-
 
 
 2. Marco Teórico
@@ -226,6 +219,7 @@ __1. Convierta cada uno de los siguientes números a forma polar:__
 
 * Para sumar y restar corrientes y voltajes se utiliza la representación de fasores, los cuales hemos dicho que son como números complejos, por lo que para sumar y restar los mismos se hace como en números complejos, es decir parte real con real e imaginaria con imaginaria.
 
+* La oposición que un elemento de circuito presenta a la corriente en el dominio de los fasores se define como su impedancia. Este conceptos es importante debido a que en la vida no existe elementos ideales, es decir siempre va existir una impedancia en estos  elementos (resistencias, inductancia y capacitancia), los cuales hay que tener en cuenta al momento de calcular valores. 
 
 
 
