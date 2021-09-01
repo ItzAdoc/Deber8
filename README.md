@@ -32,7 +32,7 @@ __Objetivos Específicos__
 2. Marco Teórico
 
 
-![]() 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/MT15.jpg)
 
 
 
@@ -111,19 +111,52 @@ __19. Un voltaje sinusoidal tiene un valor de 50 V cuando α= 150°. ¿Qué valo
 
 __21.  Convierta los siguientes ángulos de grados a radianes:__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej21.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej21.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej21.3.jpg)
+
 __23.  Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t= 30, 75, 140 y 315 ms.__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej23.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej23.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej23.3.jpg)
+
 
 __25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t= 5 µs. Determine Vm y dibuje la forma de onda.__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej25.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej25.2.jpg)
+
 __27. Calcule w en radianes por segundo para cada uno de los siguientes casos:__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej27.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej27.2.jpg)
+
 __29. Determine las ecuaciones para las ondas seno con lo siguiente:__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej29.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej29.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej29.3.jpg)
 
 __31. Una onda seno tiene un voltaje pico a pico de 40 V y T= 50 ms. Determine
 su ecuación__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej31.jpg)
+
 __33. Dada i= 47 sen 8260t mA, determine la corriente cuando t= 0 s, 80, 410 y
 1200 µs.__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej33.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/Ej33.2.jpg)
 
 __35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.__
 
