@@ -321,18 +321,32 @@ __21. Para la figura 16-53, Vm=10v e Im=5A. Para cada expresión, determine la c
 
 __23. Para la figura 16-53, si e=100sen wt y L = 0,5 H. Determine iL__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/23.jpg)
+
 __25. Para la figura 16-53, si__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/25.jpg)
 
 __27. ¿Cuál es la resistencia de un capacitor de 5 μF.__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/27.jpg)
+
 __29. Para la figura 16-54,  C = 50μf__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/29.jpg)
 
 __31. Determine la impedancia de cada elemento de circuito de la figura 16-55.__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/31.jpg)
+
 __33. Si la corriente a través de cada elemento del circuito de la figura 16-56 es 0,5∟0º.__
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/33.jpg)
 
 __35. Para el circuito de la figura 16-57 determine la incógnita.__
 
+
+![](https://github.com/ItzAdoc/ImaD8/blob/main/35.jpg)
 
 
 4. Video
