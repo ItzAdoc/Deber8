@@ -260,13 +260,9 @@ __1. Convierta cada uno de los siguientes números a forma polar:__
 
 ![](https://github.com/ItzAdoc/ImaD8/blob/main/16.1.PNG)
 
-
 ![](https://github.com/ItzAdoc/ImaD8/blob/main/16.1a.PNG)
+
 4. Video
-
-
-
-
 
 
 5. Conclusiones 
