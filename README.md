@@ -211,14 +211,14 @@ __1. Convierta cada uno de los siguientes números a forma polar:__
 
 
 5. Conclusiones 
-* 
 
-* 
+* En corriente alterna las ondas de voltaje y corriente son de forma senoidal, ya que existe un voltaje cambiante tanto en la parte positiva como en la negativa, se grafican a partir de la función seno y coseno. De la misma forma se lo hace con fasores, se mantiene el uso de la función seno, con el cambio de que los fasores se utilizan vectores, el cual consta de 2 componentes, conformado por un radio y un ángulo, dicho vector marcara como será la onda. 
 
-* 
+* La corriente alterna cambia de polaridad cíclicamente, siendo alternativamente positiva y negativa respectivamente. La forma de onda depende del generador que la produce, pero siempre hay una línea de cero voltios que divide a la onda en dos picos simétricos.
 
-* 
+* La frecuencia es los ciclos que da la onda en un determinado tiempo el cual es 1 segundo, el periodo es el tiempo en que la onda realiza un ciclo, la amplitud o valor pico es el valor máximo que alcanza una onda, el valor pico a pico es el valor pico multiplicado por 2, voltaje o corriente instantáneo  es el valor que toma el voltaje o corriente en un determinado tiempo, valor promedio es la media de todos los voltajes o corrientes, valor efectivo es el valor de la corriente o voltaje cuando es estable es decir cuando se comporta como cd, y las ondas pueden desfasarse, es decir una se adelanta o atrasa respecto a otra, y a ello se lo denomina desfase. Todo esto se calcula mediante formulas dadas por el libro.
 
+* Las 3 magnitudes w, T, f son dependientes entre ellas, es decir, estas tres magnitudes se relacionan como por ejemplo: el periodo depende de la frecuencia y viceversa, y con ambas se puede calcular w. 
 * 
 
 
