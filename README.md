@@ -303,40 +303,27 @@ __13.  Para la figura 16-50, i1=25 sen(wt+36 )mA e i2=40 cos(wt-10 )mA__
 
 __15. Para la figura 16-18, i1=7 sen wt mA,i2=4 sen (wt-90 )mA, i3=6 sen (wt+90 )mA__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/15.jpg)
 
 __17. Para la figura 16-52. R=12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje.__
 
-
-
-
+![](https://github.com/ItzAdoc/ImaD8/blob/main/17.jpg)
 
 __19. Dos resistores R_1=10KΩ y R_2=12,5KΩ están en serie.__
 
 __Si i=14,7 sen(wt+39 )mA__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/19.jpg)
 
 __21. Para la figura 16-53, Vm=10v e Im=5A. Para cada expresión, determine la cantidad solicitada.__
 
+![](https://github.com/ItzAdoc/ImaD8/blob/main/21.jpg)
 
 __23. Para la figura 16-53, si e=100sen wt y L = 0,5 H. Determine iL__
 
 __25. Para la figura 16-53, si__
 
-__27. ¿Cuál es la resistencia de un capacitor de 5 μ F a. . __
+__27. ¿Cuál es la resistencia de un capacitor de 5 μF.__
 
 __29. Para la figura 16-54,  C = 50μf__
 
